@@ -7,16 +7,16 @@ import ReactDom from "react-dom"
 function App() {
   return (
     <header>
-      <nav className="nav">
+      {/* <nav className="nav">
         {/* <img src="./logo.svg" alt="logo" className="nav-logo"/>  */}
-         <img src={logo} className="App-logo" alt="logo" />
-         <h1>React Learning</h1>
+         {/* <img src={logo} className="App-logo" alt="logo" /> */}
+         {/* <h1>React Learning</h1>
         <ul className="nav-items">
         <li>Pricing</li>
         <li>Contact</li>
         <li>About us</li>
         </ul>
-        </nav>
+        </nav> */} 
     </header>
   );
 }
